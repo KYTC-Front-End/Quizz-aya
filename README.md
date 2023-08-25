@@ -1,3 +1,3 @@
 # aya-alhomran-Quizz
-https://kytc-front-end.github.io/Quizz-aya/landing%20page/
+https://kytc-front-end.github.io/Quizz-aya/
 go to my website (quizz)
